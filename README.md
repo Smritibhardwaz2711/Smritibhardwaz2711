@@ -12,6 +12,25 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=400&color=38BDF8&center=true&vCenter=true&width=980&lines=🤖+Machine+Learning+Engineer;📊+Data+Scientist;🐍+Python+Developer;🧠+Deep+Learning+Explorer;📈+Turning+Data+Into+Insights;💡+Future+AI+Innovator" />
 </p>
 
+---
+
+## 🌌 About Me
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Who+Am+I%3F;Passionate+About+AI+%26+Data;Always+Learning+Always+Building" />
+</p>
+
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🔭 Currently building **AI / Machine Learning Projects**
+- 🌱 Learning **Deep Learning, NLP, MLOps**
+- 👯 Open for **Open Source & AI Collaborations**
+- 💬 Ask me about **Python, Data Science, ML**
+- 📈 Passionate about solving real-world problems with data
+- ⚡ Fun fact: **Debugging is my superpower 😄**
+
+---
+
 <!-- 📊 DATA ANALYTICS FRIENDLY ANIMATION -->
 <p align="center">
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" />
@@ -23,19 +42,6 @@
 <img src="https://img.shields.io/badge/Machine-Learning-1E40AF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-
----
-
-## 🌌 About Me
-
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🔭 Currently building **AI / Machine Learning Projects**
-- 🌱 Learning **Deep Learning, NLP, MLOps**
-- 👯 Open for **Open Source & AI Collaborations**
-- 💬 Ask me about **Python, Data Science, ML**
-- 📈 Passionate about solving real-world problems with data
-- ⚡ Fun fact: **Debugging is my superpower 😄**
 
 ---
 
