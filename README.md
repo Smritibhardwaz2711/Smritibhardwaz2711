@@ -7,11 +7,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,15:0a192f,35:1e40af,60:2563eb,85:38bdf8,100:7dd3fc&height=370&section=header&text=Smriti%20Kumari&fontSize=66&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20|%20ML%20Developer%20|%20Python%20Expert&descAlignY=61&descSize=22" />
 </p>
 
-<!-- ⚡ NO GAP TECH ICONS -->
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,mongodb,git,github,docker,vscode,linux&perline=9&theme=dark" />
-</p>
-
 <!-- ✨ FAST TYPING -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=400&color=38BDF8&center=true&vCenter=true&width=980&lines=🤖+Machine+Learning+Engineer;📊+Data+Scientist;🐍+Python+Developer;🧠+Deep+Learning+Explorer;📈+Turning+Data+Into+Insights;💡+Future+AI+Innovator" />
@@ -44,27 +39,7 @@
 
 ---
 
-## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/smriti-kumari27/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="65"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.geeksforgeeks.org/profile/smritikumaricutm" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" width="65" style="filter: drop-shadow(0 0 8px #00ff7f);"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:smritibz27@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="65"/>
-</a>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=Let's+Connect+Professionally;Open+for+Internships;Always+Learning+New+Things" />
-</p>
 
 ## ⚡ Tech Stack
 
@@ -80,77 +55,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749695-7d7c2f48-7d68-4f43-bd55-6c8c4b7f95cb.gif" width="100%" />
 </p>
 
-
-## 🚀 Featured Projects
-
-| 🚀 Project | 🔥 Description |
-|-----------|---------------|
-| 🤖 AI Chatbot | NLP based intelligent chatbot |
-| 📊 Data Dashboard | Interactive analytics dashboard |
-| 🧠 Face Emotion Detection | Real-time emotion recognition |
-| 📈 Prediction Model | ML based forecasting system |
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=🚀+Featured+Projects;💡+Real+World+Solutions+Built+By+Me;🤖+AI+%7C+ML+%7C+Data+Science+Projects;⚡+Turning+Ideas+Into+Reality" />
-</p>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2f3b8b7f-2b07-43d5-8e4e-4d7e4c4d5f3b.gif" width="100%" />
-</p>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🤖 AI Chatbot  
-🧠 Intelligent chatbot that understands user queries using Natural Language Processing and responds smartly in real-time.  
-⚡ **Tech Used:** Python • NLP • Machine Learning
-
-</td>
-
-<td width="50%">
-
-### 📊 Data Dashboard  
-📈 Interactive dashboard for analyzing business data with charts, KPIs, and insights for decision-making.  
-⚡ **Tech Used:** Power BI • Excel • SQL
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧠 Face Emotion Detection  
-🎥 Real-time system that detects facial expressions and predicts emotions using computer vision.  
-⚡ **Tech Used:** Python • OpenCV • Deep Learning
-
-</td>
-
-<td width="50%">
-
-### 📈 Prediction Model  
-🔮 Predictive analytics model that forecasts trends using historical datasets and ML algorithms.  
-⚡ **Tech Used:** Scikit-learn • Pandas • NumPy
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=7DD3FC&center=true&vCenter=true&width=700&lines=Always+Building+Innovative+Projects;Solving+Problems+With+Data;Code+%2B+Creativity+%3D+Impact" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Projects-Real_World-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-AI_&_Data-1E40AF?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Always-Building-38BDF8?style=for-the-badge&logo=rocket&logoColor=white"/>
-</p>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -211,13 +115,6 @@
 ---
 
 
-## 📜 Certificates
-
-![Oracle Certificate](https://github.com/Smritibhardwaz2711/Certificates-Portfolio/blob/main/oracle.png?raw=true)
-
-![ISRO Certificate](https://github.com/Smritibhardwaz2711/Certificates-Portfolio/blob/main/isro.png?raw=true)
-
-![TCS Certificate](https://github.com/Smritibhardwaz2711/Certificates-Portfolio/blob/main/tcs.png?raw=true)
 
 
 ## 👀 Visitors
@@ -249,6 +146,27 @@
 </p>
 
 ---
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/smriti-kumari27/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="65"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.geeksforgeeks.org/profile/smritikumaricutm" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" width="65" style="filter: drop-shadow(0 0 8px #00ff7f);"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:smritibz27@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="65"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=Let's+Connect+Professionally;Open+for+Internships;Always+Learning+New+Things" />
+</p>
 
 ## 💙 Quote
 
