@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Smriti Kumari</h1>
+<h1 align="center">Hi 👋, I am Smriti Kumari</h1>
 
 <h3 align="center">🚀 Data Scientist | Machine Learning Engineer | Python Developer from India 🇮🇳</h3>
 
